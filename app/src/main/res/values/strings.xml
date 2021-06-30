@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Valorant Agents</string>
+    <string name="search">Insira o codigo do agente.</string>
+    <string name="name">Denominação:</string>
+    <string name="habilidade1">Habilidade primaria:</string>
+    <string name="habilidade2">Habilidade secundaria:</string>
+    <string name="granada">Granada:</string>
+    <string name="ultimate">Ultimate:</string>
+    <string name="descr">Descrição:</string>
+    <string name="local">Localizar agente</string>
+    <string name="locali"></string>
+    <string name="bomb">Plante a Bomb</string>
+    <string name="descrbomb">Verde = não plantada. Vermelho = Plantada.</string>
+</resources>
